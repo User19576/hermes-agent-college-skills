@@ -12,6 +12,7 @@ This directory is the working copy of `User19576/hermes-agent-college-skills`. `
 ## Repository
 
 - Public GitHub repository: `https://github.com/User19576/hermes-agent-college-skills`. Check the remote branch before claiming a change was pushed.
+- Before changing any existing project file, copy its current bytes to a unique `archive/<timestamp>/<repo-relative-path>` location. Preserve the relative path and never overwrite an earlier snapshot. Compare source and snapshot hashes before editing. New files have no prior version to save. Root `.gitignore` excludes `/archive/`; do not stage or publish snapshots.
 
 ## Scope
 
